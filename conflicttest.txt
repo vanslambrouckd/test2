@@ -1,1 +1,2 @@
-regel1
+regel1 - gewijzigd
+regel2
